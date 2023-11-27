@@ -12,5 +12,10 @@
   },
   "engines": {
     "node": ">=18"
-  }
+  },
+  "name": "hello_nextjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Gideon Tsang <gideont@gmail.com>",
+  "license": "MIT"
 }
